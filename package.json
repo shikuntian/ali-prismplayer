@@ -1,0 +1,23 @@
+{
+  "name": "prismplayer",
+  "version": "1.0.0",
+  "description": "aliyun prismplayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikuntian/prismplayer.git"
+  },
+  "keywords": [
+    "aliyun",
+    "prismplayer"
+  ],
+  "author": "aliyun team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikuntian/prismplayer/issues"
+  },
+  "homepage": "https://github.com/shikuntian/prismplayer#readme"
+}
